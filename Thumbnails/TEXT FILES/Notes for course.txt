@@ -1,0 +1,29 @@
+Side headings
+
+@-anchor element
+>>>>  <a> This is an anchor element(which is called link) </a>
+    *)it has attribute called href="here you should place link"
+    *)it has another attribute called target="__blank"(which opens link in other tab)
+
+
+@-button element
+>>>>   <button> this creates a button </button>
+      *)it has attribute called class="some name"(which is used to identify different names)
+
+@-paragraph element
+>>>>  <p> this is a paragraph section which most of the websites information is return </p>
+
+CSS
+
+@-style element
+>>>> <style>  </style>
+   >>>this syntax is not similar to html but not too different.
+    *) this has many methods(properties)
+    *) this properties are used for buttons
+    *) to apply all that properties for all buttons we can use button element
+    *) but for differnt buttons different properties(color,bacground color etc.,) we should acces that button 
+      dot(.) opeartor followed by class name
+       some properties are:
+        ->color,background-color,border,border-radius,border-width,cursor,height,width,font-weight,font-color,
+	   	transition etc.,
+    *) 
